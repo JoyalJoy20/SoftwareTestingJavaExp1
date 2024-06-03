@@ -11,9 +11,9 @@ public class Multiplication extends Operation {
 	}
 
 	public static void main(String[] args) {
-		Operation add=new Addition(2,3);
-		Operation sub=new Substraction(5,3);
-		Operation mul=new Multiplication(7,3);
+		Addition add=new Addition(2,3);
+		Substraction sub=new Substraction(5,3);
+		Multiplication mul=new Multiplication(7,3);
 		
 		//displaying
 		System.out.println("sum ="+add.PerformOperation());
