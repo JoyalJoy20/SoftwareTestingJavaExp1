@@ -2,11 +2,11 @@ package finalkeyword;
 
 public class FinalExample extends FInalMethodExmp {
 
-	final int a=10;
-//	public FinalExample()
-//	{
-//		a=30;
-//	}
+	final int a;
+	public FinalExample()
+	{
+		a=30;
+	}
 	//final method-cannot override
 //	public final  void sample()
 //	{

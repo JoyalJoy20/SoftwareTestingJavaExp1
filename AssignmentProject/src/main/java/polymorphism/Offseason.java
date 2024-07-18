@@ -18,6 +18,7 @@ public class Offseason extends Onseason {
 //		discountAmt=(TotalPrice*40/100);
 //		System.out.println(discountAmt);
 		
+		
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
